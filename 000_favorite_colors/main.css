@@ -29,3 +29,12 @@ body {
     background-color: dimgray;
     border: 2px solid lawngreen;
 }
+
+.c04 {
+    background-color: dimgray;
+    border: 2px solid hotpink;
+}
+
+.c04:hover {
+    border: 2px solid lawngreen;
+}
